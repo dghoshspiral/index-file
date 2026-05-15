@@ -1,3 +1,6 @@
+
+<?php  echo " Hi this test " ; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
